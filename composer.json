@@ -1,5 +1,5 @@
 {
-	"name": "elisdn/yii2-gii-fixture-generator",
+	"name": "jplp88/yii2-gii-fixture-generator",
 	"description": "Fixture class generator for Gii module of Yii2 Framework.",
 	"type": "yii2-extension",
 	"keywords": ["yii2", "yii 2", "gii", "fixture"],
@@ -9,6 +9,9 @@
 			"name": "Dmitriy Yeliseyev",
 			"email": "mail@elisdn.ru",
 			"homepage": "http://www.elisdn.ru"
+		},
+		{
+			"name": "Joao Lisboa",
 		}
 	],
 	"support": {
