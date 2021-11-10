@@ -15,8 +15,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/ElisDN/yii2-gii-fixture-generator/issues?state=open",
-		"source": "https://github.com/ElisDN/yii2-gii-fixture-generator"
+		"issues": "https://github.com/jplp88/yii2-gii-fixture-generator/issues?state=open",
+		"source": "https://github.com/jplp88/yii2-gii-fixture-generator"
 	},
 	"require": {
         "yiisoft/yii2-gii": "~2.0"
